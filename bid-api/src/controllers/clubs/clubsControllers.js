@@ -9,6 +9,10 @@ const getById = async (req, res) => {
   const { id } = req.params;
 
   const club = await clubsModel.getById(id);
+  if (!club.length) {
+    return res.status(404).json({message: 'Club not found'});
+  }
+
   return res.status(200).json(club);
 };
 
@@ -16,6 +20,9 @@ const getByUf = async (req, res) => {
   const { uf } = req.params;
   
   const club = await clubsModel.getByUf(uf);
+  if (!club.length) {
+    return res.status(404).json({message: 'Club not found'});
+  }
   return res.status(200).json(club);
 };
 
