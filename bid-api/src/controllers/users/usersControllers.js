@@ -1,6 +1,7 @@
 const usersModel = require('../../models/users/usersModel');
 const clubsModel = require('../../models/clubs/clubsModel');
 const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken');
 
 const getAll = async (_req, res) => {
   const users = await usersModel.getAll();
@@ -24,9 +25,12 @@ const postLogin = async (req, res) => {
   }
 
   if(await bcrypt.compare(req.body.password, user[0].password)) {
+    const token = jwt.sign({name: user[0].name, email: user[0].email}, 'ahjldfglaskujdghçadikfjhgç', {
+      expiresIn: 10 * 60
+    });
     const message = {
       message: `Login successfully: Welcome ${user[0].name}`,
-      token: 'token'
+      token: token
     };
   
     res.status(200).json(message);

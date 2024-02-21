@@ -15,7 +15,6 @@
   "dependencies": {
     "chai-http": "^4.4.0",
     "dotenv": "^16.4.1",
-    "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.9.0",
     "sequelize": "^6.36.0"
   },
@@ -24,6 +23,7 @@
     "chai": "^4.3.4",
     "eslint": "^8.56.0",
     "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
     "mocha": "^10.2.0",
     "nock": "^13.5.1",
     "nodemon": "^3.0.3",
