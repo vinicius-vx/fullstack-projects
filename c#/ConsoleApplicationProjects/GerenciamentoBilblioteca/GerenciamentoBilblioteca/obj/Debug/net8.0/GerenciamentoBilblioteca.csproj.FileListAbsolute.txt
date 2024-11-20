@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\bin\Debug\net8.0\GerenciamentoBilblioteca.exe
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\bin\Debug\net8.0\GerenciamentoBilblioteca.deps.json
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\bin\Debug\net8.0\GerenciamentoBilblioteca.runtimeconfig.json
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\bin\Debug\net8.0\GerenciamentoBilblioteca.dll
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\bin\Debug\net8.0\GerenciamentoBilblioteca.pdb
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\GerenciamentoBilblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\GerenciamentoBilblioteca.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\GerenciamentoBilblioteca.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\GerenciamentoBilblioteca.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\GerenciamentoBilblioteca.sourcelink.json
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\GerenciamentoBilblioteca.dll
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\refint\GerenciamentoBilblioteca.dll
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\GerenciamentoBilblioteca.pdb
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\GerenciamentoBilblioteca.genruntimeconfig.cache
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoBilblioteca\GerenciamentoBilblioteca\obj\Debug\net8.0\ref\GerenciamentoBilblioteca.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\bin\Debug\net8.0\GerenciamentoDeConcessionária.exe
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\bin\Debug\net8.0\GerenciamentoDeConcessionária.dll
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\GerenciamentoDeConcessionária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\GerenciamentoDeConcessionária.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\GerenciamentoDeConcessionária.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\GerenciamentoDeConcessionária.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\GerenciamentoDeConcessionária.sourcelink.json
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\GerenciamentoDeConcessionária.dll
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\refint\GerenciamentoDeConcessionária.dll
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\GerenciamentoDeConcessionária.pdb
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\bin\Debug\net8.0\GerenciamentoDeConcessionária.deps.json
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\bin\Debug\net8.0\GerenciamentoDeConcessionária.runtimeconfig.json
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\bin\Debug\net8.0\GerenciamentoDeConcessionária.pdb
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\GerenciamentoDeConcessionária.genruntimeconfig.cache
+C:\Users\PC\Desktop\Projetos\fullstack-projects\c#\GerenciamentoDeConcessionária\GerenciamentoDeConcessionária\obj\Debug\net8.0\ref\GerenciamentoDeConcessionária.dll

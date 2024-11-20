@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\services\\bibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\services\\bibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\interfaces\\ibibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\interfaces\\ibibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|c:\\users\\pc\\desktop\\projetos\\fullstack-projects\\c#\\gerenciamentobilblioteca\\gerenciamentobilblioteca\\gerenciamentobilblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C97C4D08-D397-4FA2-8BDC-49B29D2F9E7E}|GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj|solutionrelative:gerenciamentobilblioteca\\gerenciamentobilblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Livro.cs",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\Models\\Livro.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:08:25.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Emprestimo.cs",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\Models\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:56:14.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Services\\BibliotecaService.cs",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\Services\\BibliotecaService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Services\\BibliotecaService.cs",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\Services\\BibliotecaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:08:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Program.cs",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:56:58.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBibliotecaService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Interfaces\\IBibliotecaService.cs",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\Interfaces\\IBibliotecaService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Interfaces\\IBibliotecaService.cs",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\Interfaces\\IBibliotecaService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:06:59.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Cliente.cs",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:35:37.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Funcionario.cs",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\Models\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:33:57.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\Models\\Pessoa.cs",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:17:47.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GerenciamentoBilblioteca.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj",
+              "RelativeDocumentMoniker": "GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Projetos\\fullstack-projects\\c#\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj",
+              "RelativeToolTip": "GerenciamentoBilblioteca\\GerenciamentoBilblioteca.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T13:40:26.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
